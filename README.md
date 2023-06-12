@@ -1,7 +1,7 @@
 👋 Hey there! Welcome to my GitHub profile! 👨‍💻
 
 🌟 About Me 🌟
-I'm a passionate ML enthusiast with a knack for building awesome projects. 
+I'm a passionate ML enthusiast with a love for building awesome projects. 
 When I'm not sipping coffee ☕ and coding, you'll probably find me lost in the world of algorithms or exploring the latest advancements in the ML universe. 🚀
 
 🏫 Education & Projects 🎓
